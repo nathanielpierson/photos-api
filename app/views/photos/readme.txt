@@ -1,0 +1,1 @@
+-got the syntax in the jbuilder file backwards
